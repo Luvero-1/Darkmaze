@@ -1,0 +1,16 @@
+{
+  "title": "Sistema propio - Dark maze",
+  "version": "1.0.0",
+  "manifest": "",
+  "system": "sandbox",
+  "coreVersion": "11.315",
+  "systemVersion": "0.14.4.4",
+  "id": "darkmaze",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "lastPlayed": "Fri Mar 08 2024 13:01:55 GMT+0100 (hora estándar de Europa central)",
+  "safeMode": false,
+  "playtime": 1591
+}
